@@ -1,0 +1,333 @@
+P3D 0 2
+BaseSeed 54
+BranchingAlg __None__
+StemModel Tube
+Length 2.000000
+LengthV 0.000000
+LengthOffsetDep CubicSpline
+CPCount 2
+Point 0.000000 1.000000
+Point 1.000000 1.000000
+AxisVariation 0.000000
+AxisResolution 5
+ProfileScaleBase 1.000000
+ProfileScaleCurve CubicSpline
+CPCount 2
+Point 0.000000 1.000000
+Point 1.000000 0.678571
+ProfileResolution 5
+PhototropismMode 1
+PhototropismCurve CubicSpline
+CPCount 2
+Point 0.000000 0.000000
+Point 1.000000 0.142857
+BaseTexUMode 0
+BaseTexUScale 1.000000
+BaseTexVMode 0
+BaseTexVScale 1.000000
+Material Simple
+BaseColor 0.700000 0.700000 0.700000
+BaseTexture __None__
+DoubleSided false
+Transparent false
+Billboard false
+BranchModelCount 1
+BranchingAlg Std
+Density 1.500000
+DensityV 0.000000
+Multiplicity 1
+RevAngle 2.670354
+RevAngleV 0.000000
+RotAngle 0.000000
+MinOffset 0.000000
+MaxOffset 1.000000
+DeclinationCurve CubicSpline
+CPCount 3
+Point 0.000000 0.464286
+Point 0.226563 0.285714
+Point 1.000000 0.000000
+DeclinationV 0.000000
+StemModel Tube
+Length 5.500000
+LengthV 0.000000
+LengthOffsetDep CubicSpline
+CPCount 2
+Point 0.000000 1.000000
+Point 1.000000 1.000000
+AxisVariation 0.110000
+AxisResolution 7
+ProfileScaleBase 0.400000
+ProfileScaleCurve CubicSpline
+CPCount 2
+Point 0.000000 0.964286
+Point 1.000000 0.357143
+ProfileResolution 4
+PhototropismMode 0
+PhototropismCurve CubicSpline
+CPCount 3
+Point 0.000000 0.250000
+Point 0.070313 0.071429
+Point 1.000000 0.428571
+BaseTexUMode 0
+BaseTexUScale 1.000000
+BaseTexVMode 0
+BaseTexVScale 1.000000
+Material Simple
+BaseColor 0.700000 0.700000 0.700000
+BaseTexture __None__
+DoubleSided false
+Transparent false
+Billboard false
+BranchModelCount 2
+BranchingAlg Std
+Density 1.000000
+DensityV 0.000000
+Multiplicity 1
+RevAngle 2.408554
+RevAngleV 0.000000
+RotAngle 0.000000
+MinOffset 0.200000
+MaxOffset 1.000000
+DeclinationCurve CubicSpline
+CPCount 2
+Point 0.000000 0.500000
+Point 1.000000 0.500000
+DeclinationV 0.000000
+StemModel Tube
+Length 0.500000
+LengthV 0.000000
+LengthOffsetDep CubicSpline
+CPCount 3
+Point 0.000000 0.107143
+Point 0.500000 0.750000
+Point 1.000000 0.392857
+AxisVariation 0.050000
+AxisResolution 5
+ProfileScaleBase 0.300000
+ProfileScaleCurve CubicSpline
+CPCount 2
+Point 0.000000 1.000000
+Point 1.000000 0.357143
+ProfileResolution 4
+PhototropismMode 0
+PhototropismCurve CubicSpline
+CPCount 3
+Point 0.000000 0.285714
+Point 0.085938 0.142857
+Point 1.000000 0.000000
+BaseTexUMode 0
+BaseTexUScale 1.000000
+BaseTexVMode 0
+BaseTexVScale 1.000000
+Material Simple
+BaseColor 0.700000 0.700000 0.700000
+BaseTexture __None__
+DoubleSided false
+Transparent false
+Billboard false
+BranchModelCount 0
+BranchingAlg Std
+Density 0.600000
+DensityV 0.000000
+Multiplicity 1
+RevAngle 1.989675
+RevAngleV 0.000000
+RotAngle 0.000000
+MinOffset 0.300000
+MaxOffset 1.000000
+DeclinationCurve CubicSpline
+CPCount 2
+Point 0.000000 0.500000
+Point 1.000000 0.500000
+DeclinationV 0.000000
+StemModel Tube
+Length 1.300000
+LengthV 0.000000
+LengthOffsetDep CubicSpline
+CPCount 3
+Point 0.000000 1.000000
+Point 0.609375 0.928571
+Point 1.000000 0.321429
+AxisVariation 0.000000
+AxisResolution 10
+ProfileScaleBase 0.500000
+ProfileScaleCurve CubicSpline
+CPCount 2
+Point 0.000000 1.000000
+Point 1.000000 0.321429
+ProfileResolution 4
+PhototropismMode 0
+PhototropismCurve CubicSpline
+CPCount 3
+Point 0.000000 0.428571
+Point 0.078125 0.285714
+Point 1.000000 0.000000
+BaseTexUMode 0
+BaseTexUScale 1.000000
+BaseTexVMode 0
+BaseTexVScale 1.000000
+Material Simple
+BaseColor 0.700000 0.700000 0.700000
+BaseTexture __None__
+DoubleSided false
+Transparent false
+Billboard false
+BranchModelCount 1
+BranchingAlg Std
+Density 2.000000
+DensityV 0.000000
+Multiplicity 1
+RevAngle 2.391101
+RevAngleV 0.000000
+RotAngle 0.000000
+MinOffset 0.400000
+MaxOffset 1.000000
+DeclinationCurve CubicSpline
+CPCount 2
+Point 0.000000 0.500000
+Point 1.000000 0.500000
+DeclinationV 1.000000
+StemModel Tube
+Length 1.500000
+LengthV 0.000000
+LengthOffsetDep CubicSpline
+CPCount 3
+Point 0.000000 0.035714
+Point 0.414063 0.285714
+Point 1.000000 1.000000
+AxisVariation 0.000000
+AxisResolution 16
+ProfileScaleBase 1.000000
+ProfileScaleCurve CubicSpline
+CPCount 2
+Point 0.000000 0.464286
+Point 1.000000 0.250000
+ProfileResolution 4
+PhototropismMode 0
+PhototropismCurve CubicSpline
+CPCount 5
+Point 0.000000 0.678571
+Point 0.046875 0.178571
+Point 0.382813 0.071429
+Point 0.437500 0.000000
+Point 1.000000 0.000000
+BaseTexUMode 0
+BaseTexUScale 1.000000
+BaseTexVMode 0
+BaseTexVScale 1.000000
+Material Simple
+BaseColor 0.700000 0.700000 0.700000
+BaseTexture __None__
+DoubleSided false
+Transparent false
+Billboard false
+BranchModelCount 1
+BranchingAlg Std
+Density 1.700000
+DensityV 0.000000
+Multiplicity 1
+RevAngle 2.408554
+RevAngleV 0.300000
+RotAngle 0.000000
+MinOffset 0.000000
+MaxOffset 1.000000
+DeclinationCurve CubicSpline
+CPCount 2
+Point 0.000000 0.500000
+Point 1.000000 0.500000
+DeclinationV 0.000000
+StemModel Tube
+Length 0.040000
+LengthV 0.000000
+LengthOffsetDep CubicSpline
+CPCount 2
+Point 0.000000 1.000000
+Point 1.000000 0.821429
+AxisVariation 0.100000
+AxisResolution 3
+ProfileScaleBase 1.000000
+ProfileScaleCurve CubicSpline
+CPCount 3
+Point 0.000000 1.000000
+Point 0.648438 0.714286
+Point 1.000000 0.000000
+ProfileResolution 3
+PhototropismMode 0
+PhototropismCurve CubicSpline
+CPCount 2
+Point 0.000000 0.785714
+Point 1.000000 0.000000
+BaseTexUMode 0
+BaseTexUScale 1.000000
+BaseTexVMode 0
+BaseTexVScale 1.000000
+Material Simple
+BaseColor 1.000000 1.000000 0.000000
+BaseTexture __None__
+DoubleSided false
+Transparent false
+Billboard false
+BranchModelCount 1
+BranchingAlg Std
+Density 7.000000
+DensityV 0.000000
+Multiplicity 1
+RevAngle 2.687807
+RevAngleV 0.000000
+RotAngle 0.000000
+MinOffset 0.000000
+MaxOffset 1.000000
+DeclinationCurve CubicSpline
+CPCount 2
+Point 0.000000 0.321429
+Point 1.000000 0.000000
+DeclinationV 0.000000
+StemModel Tube
+Length 1.100000
+LengthV 0.000000
+LengthOffsetDep CubicSpline
+CPCount 2
+Point 0.000000 1.000000
+Point 1.000000 0.392857
+AxisVariation 0.000000
+AxisResolution 3
+ProfileScaleBase 1.000000
+ProfileScaleCurve CubicSpline
+CPCount 2
+Point 0.000000 1.000000
+Point 1.000000 0.000000
+ProfileResolution 3
+PhototropismMode 0
+PhototropismCurve CubicSpline
+CPCount 2
+Point 0.000000 0.000000
+Point 1.000000 0.000000
+BaseTexUMode 0
+BaseTexUScale 1.000000
+BaseTexVMode 0
+BaseTexVScale 1.000000
+Material Simple
+BaseColor 0.000000 1.000000 0.000000
+BaseTexture __None__
+DoubleSided true
+Transparent false
+Billboard false
+BranchModelCount 1
+BranchingAlg Wings
+RotAngle 0.000000
+StemModel Wings
+WingsAngle 0.000000
+Width 0.200000
+SectionCount 1
+Curvature CubicSpline
+CPCount 2
+Point 0.000000 0.500000
+Point 1.000000 0.285714
+Thickness 1.000000
+Material Simple
+BaseColor 0.700000 0.700000 0.700000
+BaseTexture __None__
+DoubleSided true
+Transparent false
+Billboard false
+BranchModelCount 0
